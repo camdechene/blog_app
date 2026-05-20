@@ -14,3 +14,4 @@ This is a blog app for practice
 11. Monitor performance and fix bugs post-launch
 12. Nimblyst entry was entered here
 13. Set up CI/CD pipeline for automated testing and deployment
+14. testing to see the commit history again
