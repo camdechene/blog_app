@@ -10,7 +10,7 @@ This is a blog app for practice
 7. Implement search functionality across posts
 8. Add pagination to the posts listing page
 9. Style the frontend with CSS and responsive design
-lets see if we can see the commits and branches now
 10. Deploy the application to a production environment
 11. Monitor performance and fix bugs post-launch
 12. Nimblyst entry was entered here
+13. Set up CI/CD pipeline for automated testing and deployment
