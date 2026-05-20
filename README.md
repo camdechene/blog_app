@@ -11,3 +11,4 @@ This is a blog app for practice
 8. Add pagination to the posts listing page
 9. Style the frontend with CSS and responsive design
 10. Deploy the application to a production environment
+11. Monitor performance and fix bugs post-launch
