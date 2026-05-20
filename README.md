@@ -13,3 +13,4 @@ This is a blog app for practice
 10. Deploy the application to a production environment
 11. Monitor performance and fix bugs post-launch
 12. Nimblyst entry was entered here
+13. Set up CI/CD pipeline for automated testing and deployment
